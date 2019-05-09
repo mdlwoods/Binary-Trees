@@ -1,5 +1,9 @@
 # Binary-Trees
 
+Compilation: g++  -Wall main.cpp tree.cpp -o tree
+usage: tree <amount of starting nodes>
+  Starting nodes should be between 0 and 20
+
 Tests performed in main function:
 
 Adds an amount of nodes to the tree as specified by the user in the command line. All id for nodes are unique.
